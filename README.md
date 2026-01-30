@@ -75,4 +75,3 @@ GrantFlow 360 transforms this chaos into a streamlined, transparent, and data-ri
 
 Ready to transform your grant review process?
 
-**Explore the demo here:** `[Your Application Link]`
