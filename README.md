@@ -23,7 +23,8 @@ GrantFlow 360 transforms this chaos into a streamlined, transparent, and data-ri
 
 *   **Centralized Applicant Dashboard:** View, sort, and filter all applicants in one clean interface. The dashboard provides a high-level overview, while detailed applicant profiles are just a click away.
     <img width="1337" height="619" alt="filters" src="https://github.com/user-attachments/assets/f7e5f6a7-50e8-4607-94ac-1ca7955865c0" />
-   <img width="1345" height="541" alt="score" src="https://github.com/user-attachments/assets/e35c2129-9030-4d68-b847-4e31cad12671" />
+   <img width="1366" height="728" alt="sort" src="https://github.com/user-attachments/assets/d958bfdb-6ec1-45ff-a813-d1404db19a06" />
+
 
 
 *   **Comprehensive Applicant Profiles:** Dive deep into applicant data with organized sections for information grouping. 
