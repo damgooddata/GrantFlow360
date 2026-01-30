@@ -15,7 +15,7 @@ Managing a grant program involves juggling countless applicant files, coordinati
 
 GrantFlow 360 transforms this chaos into a streamlined, transparent, and data-rich process.
 
-*(Application Screenshot: Main Applicant Dashboard)*
+<img width="1366" height="728" alt="user-landing" src="https://github.com/user-attachments/assets/46eec69b-54bf-408f-8f59-ea04a826bfb6" />
 
 ---
 
